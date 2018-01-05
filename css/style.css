@@ -1,5 +1,22 @@
+#cover {
+  background-image: url('../images/black-mirror.png');
+  position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 545px;
+  border-bottom: 8px solid #8A0D00;
+}
 
+.title  {
+  font-family: 'Cantata One', serif;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
 
-    font-family: 'Cantata One', serif;
-
-    font-family: 'Imprima', sans-serif;
+.subtitle {
+  font-family: 'Imprima', sans-serif;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
